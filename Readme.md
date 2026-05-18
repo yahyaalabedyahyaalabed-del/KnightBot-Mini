@@ -102,7 +102,7 @@ cd Knightbot-Mini
 ### 2️⃣ Install dependencies
 
 ```bash
-npm install
+npm install xlsx
 ```
 
 ### 3️⃣ Configure session
